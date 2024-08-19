@@ -1,5 +1,13 @@
 {
   "name": "intro-v3-app",
+  "description": "Repo for Frontend Masters 'Introduction to Next.js 13+, v3' with Scott Moss",
+  "author": "RC Maples",
+  "keywords": [
+    "next",
+    "nextjs",
+    "next.js",
+    "frontend masters"
+  ],
   "version": "0.1.0",
   "private": true,
   "scripts": {
