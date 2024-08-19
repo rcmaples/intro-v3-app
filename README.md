@@ -1,3 +1,9 @@
+## Frontend Masters Course
+
+[Introduction to Next.js 13+, v3](https://frontendmasters.com/courses/next-js-v3/)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
